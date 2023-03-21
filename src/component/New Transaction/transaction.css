@@ -1,0 +1,24 @@
+#transaction-container{
+    width: 24%;
+    margin: auto;
+}
+.heading{
+    font-family: "Lato",sans-serif;
+}
+.dec{
+    width: 93%;
+    padding: 11px;
+    margin-top: 3%;
+}
+.btn{
+    font-size: 16px;
+    padding: 10px;
+    width: 100%;
+    cursor: pointer;
+    background-color: #b0c4de;
+   
+    color: #fff;
+    border: 0;
+    margin: 10px 0 30px;
+    font-weight: 700;
+}
